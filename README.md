@@ -16,3 +16,6 @@ Cases
 2. When the word is present, but has incorect spelling
 3. When the word is present, but has possibly a correct spelling
 4. When the word is present with correct spelling, but with second best frequency in the corpus
+
+Test the code using Test Spell Checker.ipynb notebook and spellChecker.py
+Run spellChecker_CMD.py from command prompt for production
