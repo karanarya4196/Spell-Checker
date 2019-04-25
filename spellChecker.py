@@ -24,7 +24,7 @@ corpus = [s for s in words if len(s) > 1]
 # Given an input word from the user, the wordSplitSet function generates a list of tuples with all possible combinations of the input word
 
 # Exhaustive list of word suggestions for one letter error cases
-# 1. he words are juggled/ re-assembled
+# 1. The words are juggled/ re-assembled
 # 2. Additional alphabetic characters are added at various positions of all combinations
 # 3. In the case of repetitive characters, replacement is done instead of addition
 # 4. Alphabetic characters are also deleted to generate more suggestions
