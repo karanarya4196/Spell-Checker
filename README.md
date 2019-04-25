@@ -12,10 +12,10 @@ Given an input word from the user, the wordSplitSet function generates a list of
 
 ### Provides the best two possible word suggestions based on the concept of probability
 Cases
-1. When the word is not present in the corpus
-2. When the word is present, but has incorect spelling
-3. When the word is present, but has possibly a correct spelling
-4. When the word is present with correct spelling, but with second best frequency in the corpus
+1. When the word is not present in the corpus. Example input: karan
+2. When the word is present, but has incorect spelling. Example input: provde
+3. When the word is present, but has possibly a correct spelling. Example input: drove
+4. When the word is present with correct spelling, but with second best frequency in the corpus. Example input: prove
 
 #### Test the code using Test Spell Checker.ipynb notebook and spellChecker.py
 #### Run spellChecker_CMD.py from command prompt for production
